@@ -1,0 +1,46 @@
+{
+	"12341" : {
+		"items" : [
+			{
+				"name" : "do hw1",
+				"details" : "for specific class 321",
+				"due" : "123321",
+				"created" : "112222"
+			},
+			{
+				"name" : "do hw2",
+				"details" : "for specific class 321",
+				"due" : "123321",
+				"created" : "112222"
+			},
+			{
+				"name" : "do hw3",
+				"details" : "for specific class 321",
+				"due" : "123321",
+				"created" : "112222"
+			}
+		]
+	}, 
+	"12342" : {
+		"items" : [
+			{
+				"name" : "do hw5",
+				"details" : "for specific class 321",
+				"due" : "123321",
+				"created" : "112222"
+			},
+			{
+				"name" : "do hw6",
+				"details" : "for specific class 321",
+				"due" : "123321",
+				"created" : "112222"
+			},
+			{
+				"name" : "do hw7",
+				"details" : "for specific class 321",
+				"due" : "123321",
+				"created" : "112222"
+			}
+		]
+	}
+}
